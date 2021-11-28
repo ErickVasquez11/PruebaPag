@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PruebaPag/static/css/main.80afcbfb.chunk.css",
+    "main.js": "/PruebaPag/static/js/main.8947d7d2.chunk.js",
+    "main.js.map": "/PruebaPag/static/js/main.8947d7d2.chunk.js.map",
+    "runtime-main.js": "/PruebaPag/static/js/runtime-main.8bbee478.js",
+    "runtime-main.js.map": "/PruebaPag/static/js/runtime-main.8bbee478.js.map",
+    "static/css/2.7f2ec892.chunk.css": "/PruebaPag/static/css/2.7f2ec892.chunk.css",
+    "static/js/2.be2fce38.chunk.js": "/PruebaPag/static/js/2.be2fce38.chunk.js",
+    "static/js/2.be2fce38.chunk.js.map": "/PruebaPag/static/js/2.be2fce38.chunk.js.map",
+    "static/js/3.ac7317d0.chunk.js": "/PruebaPag/static/js/3.ac7317d0.chunk.js",
+    "static/js/3.ac7317d0.chunk.js.map": "/PruebaPag/static/js/3.ac7317d0.chunk.js.map",
+    "index.html": "/PruebaPag/index.html",
+    "static/css/2.7f2ec892.chunk.css.map": "/PruebaPag/static/css/2.7f2ec892.chunk.css.map",
+    "static/css/main.80afcbfb.chunk.css.map": "/PruebaPag/static/css/main.80afcbfb.chunk.css.map",
+    "static/js/2.be2fce38.chunk.js.LICENSE.txt": "/PruebaPag/static/js/2.be2fce38.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bbee478.js",
+    "static/css/2.7f2ec892.chunk.css",
+    "static/js/2.be2fce38.chunk.js",
+    "static/css/main.80afcbfb.chunk.css",
+    "static/js/main.8947d7d2.chunk.js"
+  ]
+}
